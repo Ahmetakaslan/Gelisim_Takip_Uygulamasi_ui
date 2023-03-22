@@ -1,6 +1,9 @@
 # saglik_app_22_03_2023
 Flutter & Dart
 A new Flutter project.
+<img src="https://user-images.githubusercontent.com/95686166/227045499-69d59422-8471-481f-ba99-779e2b7ead68.png" with="350" height="700">
+<img src="https://user-images.githubusercontent.com/95686166/227045509-498d88ed-ee1e-4a0e-a2ec-be6a85b1e2ea.png" with="350" height="700">
+<img src="https://user-images.githubusercontent.com/95686166/227045516-97a6b514-01e3-4b81-9536-8f7a68ad46ae.png" with="350" height="700">
 
 ## Getting Started
 
