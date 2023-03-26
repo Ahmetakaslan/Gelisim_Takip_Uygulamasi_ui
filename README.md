@@ -1,5 +1,4 @@
-
-# saglik_app_22_03_2023
+#  saglik_app_22_03_2023
 Flutter & Dart
 A new Flutter project.
 Kişisel Gelişim için Bir App Kullanıcı 
