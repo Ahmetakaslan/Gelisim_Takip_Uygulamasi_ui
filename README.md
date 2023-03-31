@@ -2,7 +2,7 @@
 Flutter & Dart
 A new Flutter project.
 Kişisel Gelişim için Bir App Kullanıcı 
-Kullanmak istediği alana göre düzenleyebir. 
+Kullanmak istediği alana göre düzenleyebilir. 
     
    
 <img src="https://user-images.githubusercontent.com/95686166/227045499-69d59422-8471-481f-ba99-779e2b7ead68.png" with="350" height="700">
